@@ -4,6 +4,7 @@
 
 #include "Core/Debugger/PPCDebugInterface.h"
 
+#include <algorithm>
 #include <array>
 #include <cstddef>
 #include <string>
